@@ -1,0 +1,3 @@
+This is Python
+Learning File I/O
+Welcome
